@@ -1,11 +1,11 @@
 # Hello and welcome !
-
 <div style="display: flex; justify-content: space-between; align-items: center">
 <div>
-<h3>I am a Web Developer.<br/>I specialize in JavaScript, using React or Angular.</h3> 
-<h3>I love Web Design. I enjoy learning UX/UI best practices and using animations and micro-interactions to enhance a website's look & feel and usability.</h3>
+<h3>I am a Web Developer.<br/>I specialize in JavaScript - I love using React or Angular.</h3> 
+<h3>I love Web Design.<br/>I enjoy learning UX/UI best practices and using animations to enhance a website's look & feel and usability.</h3>
 </div>
-<img  style="height: 80px; margin: 2rem" src="./beautiful-anemone.png" />
+<div>
+<img align="right" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/beautiful-anemone.png" alt="Decorative flower" height=150px/>
 </div>
 
 <!--
