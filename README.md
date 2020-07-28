@@ -1,14 +1,17 @@
-# Hello and welcome !
-<div style="display: flex; justify-content: space-between; align-items: center">
-<div>
-  <h4>I am a Web Developer.</h4> 
-  <p>I specialize in JavaScript - I love using React or Angular.</p>
-  <h4>I love Web Design.</h4>
-  <p>I enjoy learning UX/UI best practices and using animations to enhance a website's look & feel and usability.</p>
-</div>
-<div>
-<img align="right" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/beautiful-anemone.png" alt="Decorative flower" height=150px/>
-</div>
+
+> # Hi ! I'm Sabine
+**Welcome !**<br> _Enjoy your stay :)_
+<img align="right" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/beautiful-anemone.png" alt="Decorative flower" height=100px/>
+___
+## Here are a few facts about me :
+> ### I am a Web Developer. 
+I specialize in JavaScript - I love using React or Angular.
+> ### I love Web Design.
+I enjoy learning UX/UI best practices and using animations to enhance a website's look & feel and usability.
+
+Sometimes I say stuff on [Twitter](https://twitter.com/Sabinerobart)
+
+Sometimes I share stuff on [Linkedin](https://www.linkedin.com/in/sabinerobart/)
 
 
 
