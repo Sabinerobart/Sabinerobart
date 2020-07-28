@@ -11,7 +11,8 @@ ___
 > I enjoy learning UX/UI best practices and using animations to enhance a website's look & feel and usability.
 ___
 Sometimes I say stuff on [Twitter](https://twitter.com/Sabinerobart)<br/>
-Sometimes I share stuff on [Linkedin](https://www.linkedin.com/in/sabinerobart/)
+Sometimes I share stuff on [Linkedin](https://www.linkedin.com/in/sabinerobart/)<br/>
+Most of the time I do some code, right here :point_down:
 
 
 
