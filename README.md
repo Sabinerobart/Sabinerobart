@@ -1,5 +1,5 @@
 
-# Hi ! I'm Sabine
+## Hi ! I'm Sabine :white_flower:
 ### **Welcome !** <br/> _Enjoy your stay :)_
 ___
 <img align="right" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/beautiful-anemone.png" alt="Decorative flower" height=100px/>
