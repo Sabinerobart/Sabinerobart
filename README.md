@@ -3,7 +3,9 @@
 ###  Hi ! I'm Sabine :octocat:
 
 #### Welcome !
+
 <img align="right" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/beautiful-anemone.png" alt="Decorative flower" height=150px/>
+
 ### Here are a few facts about me :
 
 <img align="left" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/terminal.png" alt="Decorative flower" height=40px/>
