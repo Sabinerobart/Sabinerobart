@@ -1,9 +1,9 @@
-<img align="right" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/beautiful-anemone.png" alt="Decorative flower" height=100px/>
 
-### Hi ! I'm Sabine :white_flower:
+
+###  Hi ! I'm Sabine :octocat:
 
 #### Welcome !
-
+<img align="right" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/beautiful-anemone.png" alt="Decorative flower" height=150px/>
 ### Here are a few facts about me :
 
 <img align="left" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/terminal.png" alt="Decorative flower" height=40px/>
@@ -19,8 +19,8 @@ I enjoy learning UX/UI best practices and using animations to enhance a website'
 
 <img align="left" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/tester.png" alt="Decorative flower" height=40px/>
 
-### I am currently learning
-  - Next.js
+### I am currently learning :
+Next.js
 ___
 
 Sometimes I say stuff on [Twitter](https://twitter.com/Sabinerobart)<br/>
