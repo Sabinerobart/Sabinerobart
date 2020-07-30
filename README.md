@@ -1,8 +1,7 @@
 
+<h1 align="center">Hi ! I'm Sabine</h1>
 
-###  Hi ! I'm Sabine :octocat:
-
-#### Welcome !
+#### :octocat: Welcome !
 
 <img align="right" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/beautiful-anemone.png" alt="Decorative flower" height=150px/>
 
