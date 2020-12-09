@@ -21,7 +21,8 @@ I enjoy learning UX/UI best practices and using animations to enhance a website'
 <img align="left" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/tester.png" alt="Decorative flower" height=40px/>
 
 ### I am currently learning :
-Next.js
+- Vue
+- NodeJS with templating engines
 ___
 
 Sometimes I say stuff on [Twitter](https://twitter.com/Sabinerobart)<br/>
