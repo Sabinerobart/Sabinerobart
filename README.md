@@ -11,7 +11,7 @@
 
 ### I am a Web Developer. 
 
-I specialize in JavaScript - I love using React or Angular.
+I specialize in JavaScript - I love using React/Gatsby or Vue !
 
 <img align="left" src="https://github.com/Sabinerobart/Sabinerobart/blob/master/web-design.png" alt="Decorative flower" height=40px/>
 
@@ -22,7 +22,6 @@ I enjoy learning UX/UI best practices and using animations to enhance a website'
 
 ### I am currently learning :
 - Vue
-- NodeJS with templating engines
 ___
 
 Sometimes I say stuff on [Twitter](https://twitter.com/Sabinerobart)<br/>
